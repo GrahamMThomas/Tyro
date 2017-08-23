@@ -10,7 +10,7 @@ Time spent: **40** hours spent in total
 
 Here's gameplay from Tyro:
 
-![alt text](https://github.com/GrahamMThomas/Halite-Bot/blob/master/Halite_gameplay.gif "Demo")
+![alt text](https://github.com/GrahamMThomas/Tyro/blob/master/Tyro_Gameplay.gif "Demo")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
